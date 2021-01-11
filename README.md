@@ -16,7 +16,7 @@ This is a starter template for Javascript-ReactJS developer
 
 Feel free to see the example and play around with the files
 
-![]()
+![](https://salweyar.github.io/images/react-firebase/react-firebase-login-signup.gif)
 
 ## Usage
 
