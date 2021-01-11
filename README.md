@@ -24,7 +24,7 @@ Feel free to see the example and play around with the files
 
    ```bash
    cd projectName
-   git clone 
+   git clone https://github.com/Salweyar/Reactjs-firebase.git
    ```
 
 2. Install dependencies
